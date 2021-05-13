@@ -1,0 +1,140 @@
+
+body {
+  margin: 0;
+
+}
+
+#header_logo {
+  font-family: 'Merriweather', serif;
+  color: white;
+  padding: 10px;
+  margin: 0px;
+}
+
+.container {
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding-top: 90px;
+  background-color: #b9c2c7;
+  color: white;
+  text-align: center;
+  height: 4800px;
+}
+
+.top-wrapper h1 {
+  font-size: 45px;
+  letter-spacing: 5px;
+}
+
+p {
+  line-height: 10px;
+}
+
+#sushi {
+  font-size: 24px;
+}
+
+
+.p1 {
+  margin: 50px;
+}
+
+
+.p2 {
+  margin: 50px;
+}
+
+.sushiset {
+  width:300px;
+  margin: 40px;
+}
+
+.about01 {
+  margin: 40px;
+}
+
+.p3 {
+  margin: 50px;
+}
+
+.p4 {
+  margin: 40px;
+}
+
+.rainbow {
+  margin :40px;
+}
+
+.p6 {
+  margin: 50px;
+}
+
+.introduce {
+  margin: 50px;
+}
+
+.amarillo {
+  margin: 50px;
+}
+
+.intro2 {
+  margin: 50px;
+}
+
+.intro3 {
+  margin: 50px;
+}
+
+.california {
+  margin: 40px;
+}
+
+.harvest {
+  margin: 40px;
+}
+.p7 {
+  margin: 80px;
+}
+
+.p8 {
+  margin: 50px;
+}
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: #89a7b0;
+  position :fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  width: 124px;
+  margin-top: 20px;
+}
+
+.header-left {
+  text-align: center;
+}
+
+
+.footer {
+  background-color: #89a7b0;
+  height: 60px;
+
+  
+}
+
+#pink {
+  color: #fcdef4;
+}
+
+.blue {
+  color: #ffffab;
+}
