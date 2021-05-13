@@ -1,0 +1,58 @@
+@media (max-width: 896px) {
+  
+  header {
+    width: 896px;
+    background-color: #89a7b0;
+    position :fixed;
+    top: 0;
+    z-index: 10;
+  }
+  
+  .container {
+    width: 896px;
+    height: 100%;
+    padding: 0px;
+  }
+  
+  .top-wrapper {
+    width: 896px;
+    height: 100%;
+  }
+  
+    
+  .footer {
+    width: 896px;
+    height: 100%;
+    background-color: #89a7b0;
+  }
+
+
+  
+  @media (max-width: 812px) {
+
+  header {
+    width: 812px;
+    background-color: #89a7b0;
+    position :fixed;
+    top: 0;
+    z-index: 10;
+  }
+  
+  .container {
+    width: 812px;
+    height: 100%;
+    padding: 0px;
+  }
+  
+  .top-wrapper {
+    width: 812px;
+    height: 100%;
+  }
+  
+    
+  .footer {
+    width: 812px;
+    height: 100%;
+    background-color: #89a7b0;
+  }
+
